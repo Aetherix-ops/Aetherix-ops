@@ -10,7 +10,6 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝      ╚═════╝ ╚═╝     ╚══════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hosting+%26+Infrastructure+Engineer;Pterodactyl+Panel+Enthusiast;Open+Source+Contributor;Building+tools+for+the+community)
 
 <br>
 
@@ -34,11 +33,11 @@
 
 ```yaml
 name       : Aetherix-ops
-location   : Indonesia
-role       : Hosting & Infrastructure Engineer
-company    : Lunexia (lunexia.web.id)
-focus      : Pterodactyl Panel  •  VPS Management  •  Open Source
-status     : Building tools for the hosting community
+location   : Australia
+role       : Infrastructure Engineer
+company    : Lunexia (lunexia.com)
+focus      : Pterodactyl Panel  •  Open Source
+status     : Building tools
 ```
 
 ---
@@ -121,7 +120,7 @@ Updated Pterodactyl egg collection with the latest runtime and database versions
 <td width="50%" valign="top">
 
 ### novastar-theme
-Dark futuristic + clean minimal theme for Pterodactyl Panel. Cyan neon accents, JetBrains Mono font.
+Dark futuristic clean minimal theme for Pterodactyl Panel. Cyan neon accents, JetBrains Mono font.
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-00d2ff?style=flat-square)
@@ -171,13 +170,13 @@ Single Node.js egg for Pterodactyl with support up to Node.js v26.
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![Website](https://img.shields.io/badge/lunexia.web.id-00d2ff?style=flat-square&logo=googlechrome&logoColor=white)](https://lunexia.web.id)
+[![Website](https://img.shields.io/badge/lunexia.com-00d2ff?style=flat-square&logo=googlechrome&logoColor=white)](https://lunexia.web.id)
 [![GitHub](https://img.shields.io/badge/Aetherix--ops-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aetherix-ops)
 
 <br>
 
 ```
-// building tools so others don't have to start from scratch
+ building tools so others don't have to start from scratch
 ```
 
 </div>
